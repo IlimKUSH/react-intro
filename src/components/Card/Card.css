@@ -1,0 +1,9 @@
+.car-image {
+  width: 250px;
+  border-radius: 10px;
+  border: 4px solid gray;
+}
+.model {
+  font-family: monospace;
+  font-size: 25px;
+}
